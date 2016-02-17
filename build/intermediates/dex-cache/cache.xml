@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Tobin/Desktop/Drum/app/libs/Android-Audio.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e0f2eab1a900c3e8db65426e2bb0d0422c20ede6">
+        <dex dex="/Users/Tobin/Desktop/Drum/app/build/intermediates/pre-dexed/debug/Android-Audio-a2babd8519b403e915f5997c8aee5f46634428d6.jar" />
+    </item>
+    <item
+        jar="/Users/Tobin/Desktop/Drum/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/Tobin/Desktop/Drum/app/build/intermediates/pre-dexed/debug/classes-a3d803d46f019b3b51521509b30001a684c7c84f.jar" />
+    </item>
+    <item
+        jar="/Applications/AndroidDev/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/Tobin/Desktop/Drum/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-65c07942e20b56d94141fd6edbcc68bc56b955f6.jar" />
+    </item>
+    <item
+        jar="/Users/Tobin/Desktop/Drum/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/Tobin/Desktop/Drum/app/build/intermediates/pre-dexed/debug/classes-eb3ebb938d5b6ea65d6905ba04598bfef7768938.jar" />
+    </item>
+    <item
+        jar="/Users/Tobin/Desktop/Drum/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/Tobin/Desktop/Drum/app/build/intermediates/pre-dexed/debug/classes-d3de54a0dc8a7ff8a11f18edfb32d44352e01451.jar" />
+    </item>
+    <item
+        jar="/Users/Tobin/Desktop/Drum/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Tobin/Desktop/Drum/app/build/intermediates/pre-dexed/debug/classes-ed5fff76839fc47050017796ba3312e07055f243.jar" />
+    </item>
+    <item
+        jar="/Users/Tobin/Desktop/Drum/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/Tobin/Desktop/Drum/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-b9562bf7c7860856156f38ac4edf0383046a538f.jar" />
+    </item>
+
+</items>

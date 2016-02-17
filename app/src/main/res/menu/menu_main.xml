@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pad_item"
+        android:orderInCategory="1"
+        android:title="pad">
+    </item>
+
+    <item
+        android:id="@+id/sequencer_item"
+        android:orderInCategory="2"
+        android:title="sequencer">
+    </item>
+</menu>
